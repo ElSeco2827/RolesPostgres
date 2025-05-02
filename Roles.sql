@@ -1,3 +1,6 @@
+-- Sergio Octavio
+-- Adminsitracion de bases de datos
+-- Roles en postgres sql
 -- Crear base de datos
 create database Tienda;
 
